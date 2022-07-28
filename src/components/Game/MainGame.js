@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Board from "./Board";
+import Board from "../Board/Board";
 import "./MainGame.css";
 
 const MainGame = () => {
